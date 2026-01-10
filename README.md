@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">👋 Hey Everyone, I'm Soumya</h1>
 <h3 align="center">Frontend Developer | B.Tech CSE Student</h3>

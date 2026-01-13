@@ -14,6 +14,7 @@
 - 🛠️ Frontend developer passionate about modern web design  
 - 🧠 Currently improving Java & problem-solving skills  
 - 🛒 Building an E-commerce project **Vezzo**
+- 🚀 Actively building real-world projects & learning by doing
 
 ---
 

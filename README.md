@@ -56,8 +56,8 @@
 ## 📫 Connect With Me
 
 - 🐙 GitHub: https://github.com/SoumyaranjanSahoo-2006
-- 💼 LinkedIn: https://linkedin.com/in/your_linkedin_username
-- 📸 Instagram: https://instagram.com/your_instagram_username
+- 💼 LinkedIn: https://www.linkedin.com/in/soumyaranjan-sahoo2006
+- 📸 Instagram: https://www.instagram.com/vertx.dev
 
 ---
 

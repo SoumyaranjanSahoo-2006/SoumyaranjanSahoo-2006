@@ -40,8 +40,33 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaranjanSahoo-2006&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
-```text
-Java        ███████░░░ 70%
-HTML/CSS   ████████░░ 80%
-JavaScript ██████░░░░ 60%
-Git/GitHub ███████░░░ 70%
+---
+
+## 📂 Projects
+
+### 🛒 Vezzo – E-commerce Website
+- Frontend-based shopping platform
+- Cart system & authentication UI
+- Tech Used: HTML, CSS, JavaScript, Bootstrap
+
+🚧 *More projects coming soon…*
+
+---
+
+## 📫 Connect With Me
+
+- 🐙 GitHub: https://github.com/SoumyaranjanSahoo-2006
+- 💼 LinkedIn: https://linkedin.com/in/your_linkedin_username
+- 📸 Instagram: https://instagram.com/your_instagram_username
+
+---
+
+## ✨ Quote
+> *"Code. Learn. Build. Repeat."* 🚀
+
+---
+
+<!-- 🌊 IMAGE AT THE BOTTOM -->
+<p align="center">
+  <img src="Waves%20of%20Serenity%20🌊.jfif" alt="Waves of Serenity" width="100%"/>
+</p>

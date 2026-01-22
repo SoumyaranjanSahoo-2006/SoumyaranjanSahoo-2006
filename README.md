@@ -57,7 +57,7 @@
 
 - 🐙 GitHub: https://github.com/SoumyaranjanSahoo-2006
 - 💼 LinkedIn: https://www.linkedin.com/in/soumyaranjan-sahoo2006
-- 📸 Instagram: https://www.instagram.com/vertx.de
+- 📸 Instagram: https://www.instagram.com/vertx.dev
 
 ---
 

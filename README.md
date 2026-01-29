@@ -68,5 +68,5 @@
 
 <!-- 🌊Waves of Serenity -->
 <p align="center">
-  <img src="Waves%20of%20Serenity%20🌊.jfif" alt="Waves of Serenity" width="100%"/>
+  <img src="SoumyaBanner.gif" alt="SoumyaBanner" width="100%"/>
 </p>

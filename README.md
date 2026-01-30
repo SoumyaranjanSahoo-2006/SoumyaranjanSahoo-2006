@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Soumya Ranjan Sahoo
+<h1 align=center>👋 Hi, I'm Soumya Ranjan Sahoo</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+%7C+2027+Passout;Aspiring+Software+Developer;Frontend+%26+Java+Learner;Learning+by+Building+🚀" />
@@ -10,7 +10,6 @@
 - 🎓 B.Tech Computer Science Engineering (2027 Passout)
 - 🔭 Currently learning **Java, DSA, and Web Technologies**
 - 🎨 Interested in **UI/UX Design** (Figma, Canva)
-- 🛒 Building an **E-commerce Project – Vezzo**
 - 🌱 Improving **OOP & Problem-Solving Skills**
 - ⚡ Believe in *learning by building real projects*
 
@@ -42,16 +41,7 @@
 
 ---
 
-## 📂 Projects
 
-### 🛒 Vezzo – E-commerce Website
-- Frontend-based shopping platform
-- Cart system & authentication UI
-- Tech Used: HTML, CSS, JavaScript, Bootstrap
-
-🚧 *More projects coming soon…*
-
----
 
 ## 📫 Connect With Me
 

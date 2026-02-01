@@ -51,7 +51,7 @@
 
 ---
 
-## ✨ 
+## ✨
 > *"Code. Learn. Build. Repeat."* 🚀
 
 ---

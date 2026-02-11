@@ -48,6 +48,7 @@
 - 🐙 GitHub: https://github.com/SoumyaranjanSahoo-2006
 - 💼 LinkedIn: https://www.linkedin.com/in/soumyaranjan-sahoo2006
 - 📸 Instagram: https://www.instagram.com/vertx.dev
+- 🌐 Portfolio: https://soumyaranjansahoo-2006.github.io/Portfolio/
 
 ---
 

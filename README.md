@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stat
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SoumyaranjanSahoo-2006&show_icons=true&theme=tokyonight" height="170"/>

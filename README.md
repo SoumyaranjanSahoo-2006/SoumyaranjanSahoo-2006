@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 - 🎓 B.Tech Computer Science Engineering (2027 Passout)
 - 🔭 Currently learning **Java, DSA, and Web Technologies**
-- 🎨 Interested in **UI/UX Design** (Figma, Can)
+- 🎨 Interested in **UI/UX Design** (Figma, Canva)
 - 🌱 Improving **OOP & Problem-Solving Skills**
 - ⚡ Believe in *learning by building real projects*
 

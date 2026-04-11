@@ -53,7 +53,7 @@
 ---
 
 ## ✨
-> *"Code. Learn. Build. ."* 🚀
+> *"Code. Learn. Build. Repeat."* 🚀
 
 ---
 

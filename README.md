@@ -11,7 +11,7 @@
 - 🔭 Currently learning **Java, DSA, and Web Technologies**
 - 🎨 Interested in **UI/UX Design** (Figma, Canva)
 - 🌱 Improving **OOP & Problem-Solving Skills**
-- ⚡ Believe in *learning by building real projecs*
+- ⚡ Believe in *learning by building real projects*
 
 ---
 
